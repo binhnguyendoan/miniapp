@@ -1,0 +1,195 @@
+[
+  {
+    "id": 1,
+    "name": "Caramel Latte",
+    "price": 35000,
+    "image": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/product-square-1.webp",
+    "description": "There is a set of mock banners available <u>here</u> in three colours and in a range of standard banner sizes",
+    "categoryId": ["coffee", "drinks"],
+    "images": [
+      "https://thumb.photo-ac.com/bc/bca358c060d3805ac77ccf6c9ae96867_t.jpeg",
+      "https://i.pinimg.com/736x/c5/99/a5/c599a54409718d0b5766dbf9b5987882.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEqfHa-PQLyUw9stjq3fTY320FhmHUSaMUyHRBDhEPR6CzuDJ81BlREe24QpaeH6o4xXc&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAr4UBrwtZTWV5czPO8W8-X85YLBsamNADlXUqJuFV9d3gfT_LBAQkSMJ5f44YRXEmLSY&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1E-6DNBmnj2HUwNuzhvfg_slqyg6a26AafZdGNSsahoEEIWvR4WMFRw8obqkV9BeFzWg&usqp=CAU"
+    ],
+    "variantId": ["size", "topping"],
+    "bestseller": true
+  },
+  {
+    "id": 2,
+    "name": "Mocha Frappuccino",
+    "price": 45000,
+    "images": [
+      "https://thumb.photo-ac.com/bc/bca358c060d3805ac77ccf6c9ae96867_t.jpeg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuaJouFOf0LMii_bi9Q-R5tM6AYZKg4r02DCZh5uSyPw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBHVR2_Qlg8T9kH-5vNnMp3EW96PYG-BL5ZJTpn9AtXA&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4ghBXFsDXJucHa03-b0Er5QnXV2oAkzbHqJbVlpkjyA&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh46lpoTu2_v_nXYSCD3c6fQsWREEKoqcDeHCkbpsfjA&s"
+    ],
+    "image": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/product-square-2.webp",
+    "description": "There is a set of mock banners available <u>here</u> in three colours and in a range of standard banner sizes",
+    "categoryId": ["coffee"],
+    "variantId": ["size", "topping"],
+    "bestseller": true
+  },
+  {
+    "id": 3,
+    "name": "Grilled Pork Banh Mi",
+    "price": 30000,
+    "images": [
+      "https://i.ytimg.com/vi/VKIpiGdDvns/maxresdefault.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDqW7nbRFgJf9P_WfMNSdI-XyTJDF_L3V8X-D2K_P9A&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9aVaDm4LNh6ZbAjYYlm5H3Qe6fnJG2v9g2oIxrUNqvg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBKR_Mck_XTrgGu-DpjxHACZ11kXVBBLxlN_NRf1nubw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwbghaNaS-jI0EhRIJTN3x6D-mJ7CR9NHrBc40NO9g-w&s"
+    ],
+    "image": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/product-square-3.webp",
+    "description": "There is a set of mock banners available <u>here</u> in three colours and in a range of standard banner sizes",
+    "categoryId": ["food", "bread"],
+    "variantId": ["size"],
+    "bestseller": true
+  },
+  {
+    "id": 4,
+    "name": "Pizza",
+    "price": 28000,
+    "image": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/product-square-4.webp",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShqNOrnCWng5zaBj2reNeU2QHAMaeyj1EJJhqbunN9kg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQotyuQdvWBn0B-CwHGdp_LUM18iJGJzOEznXNKLdo7w&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCd8Tfs9vs1WTugM6XJ108a_JopxUC45oxQk6mivgZzw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcSmn0XG0T3chmzRFSh2pKMFD5_ALy3xl5bmtbNKf_4g&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnX8V7ZzccIEltrvOmy2pgZgym5VlhKJNQcpgQjkm54w&s"
+    ],
+    "description": "There is a set of mock banners available <u>here</u> in three colours and in a range of standard banner sizes",
+    "categoryId": ["food"],
+    "variantId": ["size"],
+    "bestseller": true
+  },
+  {
+    "id": 5,
+    "name": "Vanilla Latte",
+    "price": 35000,
+    "image": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/product-square-5.webp",
+    "images": [
+      "https://images.ctfassets.net/v601h1fyjgba/7wGcWZgV7yaSLXrodALIuw/2496353e1ec8c39dd44adfb45e8335d3/Vanilla_Latte.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_TdQasYbANvqUH-Lo0V-suA1HwiZDKcsuiIuOHMkDA&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31BGVtf0xiulzlMZrzvOeoRhTm73F-fF1agNqQRgOzw&s",
+      "https://cdn11.bigcommerce.com/s-5ljyj9oebs/images/stencil/600x600/products/6025/27336/P072023205410_1__56263.1709562034.jpg?c=2",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUcf4ZilNhbYYT73Hd-qQwV8uAMUBZUY2hSXbZwZyjDg&s"
+    ],
+    "description": "There is a set of mock banners available <u>here</u> in three colours and in a range of standard banner sizes",
+    "categoryId": ["coffee", "matcha"],
+    "variantId": ["size", "topping"],
+    "bestseller": true
+  },
+  {
+    "id": 6,
+    "name": "Caramel Macchiato",
+    "price": 38000,
+    "image": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/product-square-6.webp",
+    "images": [
+      "https://thumb.photo-ac.com/bc/bca358c060d3805ac77ccf6c9ae96867_t.jpeg",
+      "https://i.pinimg.com/736x/c5/99/a5/c599a54409718d0b5766dbf9b5987882.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEqfHa-PQLyUw9stjq3fTY320FhmHUSaMUyHRBDhEPR6CzuDJ81BlREe24QpaeH6o4xXc&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAr4UBrwtZTWV5czPO8W8-X85YLBsamNADlXUqJuFV9d3gfT_LBAQkSMJ5f44YRXEmLSY&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1E-6DNBmnj2HUwNuzhvfg_slqyg6a26AafZdGNSsahoEEIWvR4WMFRw8obqkV9BeFzWg&usqp=CAU"
+    ],
+    "description": "There is a set of mock banners available <u>here</u> in three colours and in a range of standard banner sizes",
+    "categoryId": ["coffee", "milktea"],
+    "variantId": ["size", "topping"]
+  },
+  {
+    "id": 7,
+    "name": "Espresso",
+    "price": 32000,
+    "image": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/product-square-7.webp",
+    "images": [
+      "https://thumb.photo-ac.com/bc/bca358c060d3805ac77ccf6c9ae96867_t.jpeg",
+      "https://i.pinimg.com/736x/c5/99/a5/c599a54409718d0b5766dbf9b5987882.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEqfHa-PQLyUw9stjq3fTY320FhmHUSaMUyHRBDhEPR6CzuDJ81BlREe24QpaeH6o4xXc&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAr4UBrwtZTWV5czPO8W8-X85YLBsamNADlXUqJuFV9d3gfT_LBAQkSMJ5f44YRXEmLSY&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1E-6DNBmnj2HUwNuzhvfg_slqyg6a26AafZdGNSsahoEEIWvR4WMFRw8obqkV9BeFzWg&usqp=CAU"
+    ],
+    "description": "There is a set of mock banners available <u>here</u> in three colours and in a range of standard banner sizes",
+    "categoryId": ["coffee"],
+    "variantId": ["size", "topping"]
+  },
+  {
+    "id": 8,
+    "name": "Green Tea Latte",
+    "price": 25000,
+    "image": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/product-square-8.webp",
+    "images": [
+      "https://thumb.photo-ac.com/bc/bca358c060d3805ac77ccf6c9ae96867_t.jpeg",
+      "https://i.pinimg.com/736x/c5/99/a5/c599a54409718d0b5766dbf9b5987882.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEqfHa-PQLyUw9stjq3fTY320FhmHUSaMUyHRBDhEPR6CzuDJ81BlREe24QpaeH6o4xXc&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAr4UBrwtZTWV5czPO8W8-X85YLBsamNADlXUqJuFV9d3gfT_LBAQkSMJ5f44YRXEmLSY&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1E-6DNBmnj2HUwNuzhvfg_slqyg6a26AafZdGNSsahoEEIWvR4WMFRw8obqkV9BeFzWg&usqp=CAU"
+    ],
+    "description": "There is a set of mock banners available <u>here</u> in three colours and in a range of standard banner sizes",
+    "categoryId": ["matcha"],
+    "variantId": ["size", "topping"]
+  },
+  {
+    "id": 9,
+    "name": "Bộ 3 Blue Corner Coffee siêu HOT",
+    "image": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/product-rect-1.webp",
+    "images": [
+      "https://thumb.photo-ac.com/bc/bca358c060d3805ac77ccf6c9ae96867_t.jpeg",
+      "https://i.pinimg.com/736x/c5/99/a5/c599a54409718d0b5766dbf9b5987882.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEqfHa-PQLyUw9stjq3fTY320FhmHUSaMUyHRBDhEPR6CzuDJ81BlREe24QpaeH6o4xXc&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAr4UBrwtZTWV5czPO8W8-X85YLBsamNADlXUqJuFV9d3gfT_LBAQkSMJ5f44YRXEmLSY&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1E-6DNBmnj2HUwNuzhvfg_slqyg6a26AafZdGNSsahoEEIWvR4WMFRw8obqkV9BeFzWg&usqp=CAU"
+    ],
+    "price": 25000,
+    "sale": {
+      "type": "percent",
+      "percent": 0.2
+    },
+    "description": "There is a set of mock banners available <u>here</u> in three colours and in a range of standard banner sizes",
+    "categoryId": ["coffee", "milktea", "drinks"],
+    "variantId": ["size", "topping"]
+  },
+  {
+    "id": 10,
+    "name": "Combo Hi Tea Aroma",
+    "image": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/product-rect-2.webp",
+    "images": [
+      "https://thumb.photo-ac.com/bc/bca358c060d3805ac77ccf6c9ae96867_t.jpeg",
+      "https://i.pinimg.com/736x/c5/99/a5/c599a54409718d0b5766dbf9b5987882.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEqfHa-PQLyUw9stjq3fTY320FhmHUSaMUyHRBDhEPR6CzuDJ81BlREe24QpaeH6o4xXc&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAr4UBrwtZTWV5czPO8W8-X85YLBsamNADlXUqJuFV9d3gfT_LBAQkSMJ5f44YRXEmLSY&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1E-6DNBmnj2HUwNuzhvfg_slqyg6a26AafZdGNSsahoEEIWvR4WMFRw8obqkV9BeFzWg&usqp=CAU"
+    ],
+    "price": 57000,
+    "sale": {
+      "type": "fixed",
+      "amount": 7000
+    },
+    "description": "There is a set of mock banners available <u>here</u> in three colours and in a range of standard banner sizes",
+    "categoryId": ["coffee", "drinks"],
+    "variantId": ["size", "topping"]
+  },
+  {
+    "id": 11,
+    "name": "Milk Tea Combo",
+    "price": 55000,
+    "image": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/product-rect-3.webp",
+    "images": [
+      "https://thumb.photo-ac.com/bc/bca358c060d3805ac77ccf6c9ae96867_t.jpeg",
+      "https://i.pinimg.com/736x/c5/99/a5/c599a54409718d0b5766dbf9b5987882.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEqfHa-PQLyUw9stjq3fTY320FhmHUSaMUyHRBDhEPR6CzuDJ81BlREe24QpaeH6o4xXc&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAr4UBrwtZTWV5czPO8W8-X85YLBsamNADlXUqJuFV9d3gfT_LBAQkSMJ5f44YRXEmLSY&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1E-6DNBmnj2HUwNuzhvfg_slqyg6a26AafZdGNSsahoEEIWvR4WMFRw8obqkV9BeFzWg&usqp=CAU"
+    ],
+    "description": "There is a set of mock banners available <u>here</u> in three colours and in a range of standard banner sizes",
+    "categoryId": ["milktea"],
+    "variantId": ["size", "topping"],
+    "sale": {
+      "type": "percent",
+      "percent": 0.5
+    }
+  }
+]
